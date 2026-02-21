@@ -1,5 +1,5 @@
 HEAD
 Message from main branch
-
+Hello and Hi to everyone
 Message from feature branch
 feature-greeting
